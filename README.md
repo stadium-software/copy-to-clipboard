@@ -90,3 +90,7 @@ getSelectedText();
 4. Create a *Click Event Handler* for the *Link*, *Button* or *Image* control
 5. Drag the script called "CopySelectedToClipboard" into the Event Handler
 6. Optional: Show a *Notification* to indicate to the user that the copy has been successful
+
+# Restrictions
+1. For security reasons, some browsers do not allow copying from a password texbox
+2. For security reasons, some browsers do not allow copying from a hidden control. This can be circumvented by setting the visibility property before and after the copy script is run. 
