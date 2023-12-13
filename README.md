@@ -10,7 +10,7 @@ Highlighting text to copy to the clipboard can be cumbersome and annoying. Here'
 
 # Copy Control Setup
 
-## Copy Control Global Script Setup
+## Global Script Setup
 1. Create a Global Script called "CopyToClipboard"
 2. Add the input parameter below to the Global Script
    1. ClassName
@@ -51,7 +51,7 @@ copyDivToClipboard();
 
 # Copy Selected Text Setup
 
-## Copy Control Global Script Setup
+## Global Script Setup
 1. Create a Global Script called "CopyToSelectedClipboard"
 2. Drag a *JavaScript* action into the script
 3. Add the Javascript below into the JavaScript code property
