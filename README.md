@@ -2,6 +2,8 @@
 
 Highlighting text to copy to the clipboard can be cumbersome and annoying. Here's a script to allow users to copy all the content or just the selected text of a *TextBox* or a *Label* to the clipboard by clicking a link.
 
+https://github.com/stadium-software/copy-to-clipboard/assets/2085324/43d9b858-0198-4c63-a469-3770f6c7814e
+
 # Version 
 1.0 Initial
 
