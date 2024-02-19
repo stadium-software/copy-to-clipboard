@@ -19,7 +19,7 @@ https://github.com/stadium-software/copy-to-clipboard/assets/2085324/43d9b858-01
 3. Drag a *JavaScript* action into the script
 4. Add the Javascript below into the JavaScript code property
 ```javascript
-/*Stadium Script Version 1.0*/
+/* Stadium Script Version 1.0 https://github.com/stadium-software/copy-to-clipboard */
 let className = ~.Parameters.Input.ClassName;
 let el = document.querySelectorAll("." + className);
 if (el.length == 0 || el.length > 1) {
@@ -58,7 +58,7 @@ copyDivToClipboard();
 2. Drag a *JavaScript* action into the script
 3. Add the Javascript below into the JavaScript code property
 ```javascript
-/*Stadium Script Version 1.0*/
+/* Stadium Script Version 1.0 https://github.com/stadium-software/copy-to-clipboard */
 let copyDivToClipboard = (el) => {
     let range = document.createRange();
     range.selectNode(el);
