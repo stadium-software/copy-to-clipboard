@@ -10,7 +10,7 @@ https://github.com/stadium-software/copy-to-clipboard/assets/2085324/43d9b858-01
 # Application Setup
 1. Check the *Enable Style Sheet* checkbox in the application properties
 
-# Copy Control Setup
+# Copy Control Content Setup
 
 ## Global Script Setup
 1. Create a Global Script called "CopyToClipboard"
